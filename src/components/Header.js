@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1>todos</h1>
+      <h1>Mcc_Grey's todos</h1>
     </header>
   );
 }
