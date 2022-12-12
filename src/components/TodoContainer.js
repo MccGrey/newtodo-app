@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Route, Switch } from "react-router-dom";
+
 import Header from "./Header";
 import InputTodo from "./InputTodo";
 import TodosList from "./TodosList";
@@ -76,7 +76,7 @@ const TodoContainer = () => {
   }, [todos]);
 
   return (
-    <Route path="/">
+    <>
       <div className="container">
         <div className="inner">
           <Header />
@@ -89,7 +89,7 @@ const TodoContainer = () => {
           />
         </div>
       </div>
-    </Route>
+    </>
   );
 };
 
