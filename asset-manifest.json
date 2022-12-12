@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/newtodo-app/static/css/main.eb28238e.css",
-    "main.js": "/newtodo-app/static/js/main.f06dc90c.js",
+    "main.js": "/newtodo-app/static/js/main.f18a2ed3.js",
     "index.html": "/newtodo-app/index.html",
     "main.eb28238e.css.map": "/newtodo-app/static/css/main.eb28238e.css.map",
-    "main.f06dc90c.js.map": "/newtodo-app/static/js/main.f06dc90c.js.map"
+    "main.f18a2ed3.js.map": "/newtodo-app/static/js/main.f18a2ed3.js.map"
   },
   "entrypoints": [
     "static/css/main.eb28238e.css",
-    "static/js/main.f06dc90c.js"
+    "static/js/main.f18a2ed3.js"
   ]
 }
